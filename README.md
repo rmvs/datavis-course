@@ -1,5 +1,5 @@
 ## Aula do dia 24/09/2019
-[scatterplot.html](d3_crossfilter_2/index.html)<br>
+[d3_crossfilter_2.html](d3_crossfilter_2/index.html)<br>
 
 ---
 ## Aula do dia 16/09/2019
