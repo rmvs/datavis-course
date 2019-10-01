@@ -1,0 +1,14 @@
+{
+  "name": "@rmvs/d3-com-crossfilter-e-dc-js-parte-2",
+  "main": "d/6136768d1d130448.js",
+  "version": "254.0.0",
+  "homepage": "https://observablehq.com/@rmvs/d3-com-crossfilter-e-dc-js-parte-2",
+  "author": {
+    "name": "Elano Rolim",
+    "url": "https://observablehq.com/@rmvs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
