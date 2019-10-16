@@ -1,3 +1,13 @@
+## Aula do dia 09/10/2019
+[les-miserable.html](d3_network/les-miserable/index.html)<br>
+[similar-song.html](d3_network/similar-song/index.html)<br>
+
+---
+## Aula do dia 09/10/2019
+[les-miserable.html](d3_network/les-miserable/index.html)<br>
+[similar-song.html](d3_network/similar-song/index.html)<br>
+
+---
 ## Aula do dia 24/09/2019
 [d3_crossfilter_2.html](d3_crossfilter_2/index.html)<br>
 
