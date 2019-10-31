@@ -1,0 +1,14 @@
+{
+  "name": "@rmvs/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "main": "64d4799b2b55d76b@150.js",
+  "version": "150.0.0",
+  "homepage": "https://observablehq.com/@rmvs/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "author": {
+    "name": "Elano Rolim",
+    "url": "https://observablehq.com/@rmvs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

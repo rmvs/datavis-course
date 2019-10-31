@@ -1,0 +1,14 @@
+{
+  "name": "@rmvs/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "main": "48cfad397c88b4b9@232.js",
+  "version": "232.0.0",
+  "homepage": "https://observablehq.com/@rmvs/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "author": {
+    "name": "Elano Rolim",
+    "url": "https://observablehq.com/@rmvs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

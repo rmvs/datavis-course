@@ -1,3 +1,9 @@
+## Aula do dia 23/10/2019
+[d3_interactive.html](d3_interactive/index.html)<br>
+[d3_interactive_2.html](d3_interactive_2/index.html)<br>
+
+---
+
 ## Aula do dia 24/09/2019
 [d3_crossfilter_2.html](d3_crossfilter_2/index.html)<br>
 
