@@ -1,0 +1,14 @@
+{
+  "name": "@rmvs/similar-song-network/2",
+  "main": "d/19b99d518e13e7cc.js",
+  "version": "208.0.0",
+  "homepage": "https://observablehq.com/@rmvs/similar-song-network/2",
+  "author": {
+    "name": "Elano Rolim",
+    "url": "https://observablehq.com/@rmvs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
